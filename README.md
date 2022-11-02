@@ -8,10 +8,11 @@ create users
 ![CreateUser](https://user-images.githubusercontent.com/101852187/199422556-4b660248-4086-4cf5-8a27-4747e90c7e5a.png)
 
 
-
-
 create token
 ![creando token](https://user-images.githubusercontent.com/101852187/199422947-b2e445b0-8b9b-4406-81e5-47dcddaffaf6.png)
+
+Creating postgres user - Database
+![Creando-usuario](https://user-images.githubusercontent.com/101852187/199424488-db77c838-50df-4eb1-9bce-6177a7990128.png)
 
 
 
