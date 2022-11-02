@@ -21,7 +21,7 @@ changing user
 
 
 
-Changing postgres user - Database
+changing user - Database
 ![AlterandoUserPostgres](https://user-images.githubusercontent.com/101852187/199424331-1f3400f1-4340-4b8d-907c-75e251e67aca.png)
 
 
